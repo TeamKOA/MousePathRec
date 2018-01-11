@@ -1,0 +1,10 @@
+F:\Coding\MousePathRec\MousePathRec\MousePathRec\bin\Debug\MousePathRec.exe.config
+F:\Coding\MousePathRec\MousePathRec\MousePathRec\bin\Debug\MousePathRec.exe
+F:\Coding\MousePathRec\MousePathRec\MousePathRec\bin\Debug\MousePathRec.pdb
+F:\Coding\MousePathRec\MousePathRec\MousePathRec\bin\Debug\Gma.System.MouseKeyHook.dll
+F:\Coding\MousePathRec\MousePathRec\MousePathRec\obj\Debug\MousePathRec.csprojResolveAssemblyReference.cache
+F:\Coding\MousePathRec\MousePathRec\MousePathRec\obj\Debug\MousePathRec.Form1.resources
+F:\Coding\MousePathRec\MousePathRec\MousePathRec\obj\Debug\MousePathRec.Properties.Resources.resources
+F:\Coding\MousePathRec\MousePathRec\MousePathRec\obj\Debug\MousePathRec.csproj.GenerateResource.Cache
+F:\Coding\MousePathRec\MousePathRec\MousePathRec\obj\Debug\MousePathRec.exe
+F:\Coding\MousePathRec\MousePathRec\MousePathRec\obj\Debug\MousePathRec.pdb
